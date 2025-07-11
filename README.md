@@ -33,5 +33,5 @@ A full-featured **Assignment Management System** built using **Streamlit** and *
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/assignment-management-system.git
+git clone https://github.com/ssr446/assignment-management-system.git
 cd assignment-management-system
